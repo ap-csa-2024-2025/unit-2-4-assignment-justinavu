@@ -4,10 +4,11 @@
 */
 public class Rectangle
 {
+
+
   // Attributes
   private double len;
   private double wid;
-
 
   // Constructors
   /**
